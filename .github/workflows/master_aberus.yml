@@ -10,10 +10,13 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@master
+      
+    - name: compress-action
+      uses: Charlesworth/compress-action@1.0.0
              
     - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
