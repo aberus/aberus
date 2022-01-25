@@ -20,10 +20,12 @@ jobs:
       
     - name: compress-action
       uses: Charlesworth/compress-action@1.0.0
-             
+              
     - name: Deploy to Azure Web App
+      id: deploy-to-webapp
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'aberus'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_412d4d617af140218fc4c693bfdae584 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c0a55415d71a40ecbdca8bdf8330e576 }}
+        package: .
