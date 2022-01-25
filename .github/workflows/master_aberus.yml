@@ -6,7 +6,7 @@ name: Minify and deploy to Azure Web App - aberus
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
