@@ -6,7 +6,7 @@ I enjoy building web and mobile apps. I write, delete and debug C# code, script 
 
 Sometimes I [tweet](https://twitter.com/aberus) about life and tech 💬
 
-Read my [resume](https://www.linkedin.com/in/aberus/) on LinkedIn 💼
+You can read a breakdown of all my past work in my [resume](https://www.linkedin.com/in/aberus/) on LinkedIn 💼
 
 
 
