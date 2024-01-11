@@ -1,4 +1,4 @@
-## Welcome, I’m Aleksander Berus 🦁
+## Hi there, I'm [Aleksander Berus](https://aberus.com/) 🦁
 
 I'm a full time software engineer, a tech enthusiast and previously a co-founder of tech startup. 
 I enjoy building web and mobile apps. I write, delete and debug C# code, script Powershell packages. In my spare time I build Visual Studio extension.
