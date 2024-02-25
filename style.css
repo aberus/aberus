@@ -271,6 +271,11 @@ a:hover, a:focus {
 		border-bottom: 1px solid #218DBC;
 	}
 
+	a.link-mastodon:hover {
+		color: #6364ff;
+		border-bottom: 1px solid #6364ff;
+	}
+
 	a.link-linkedin:hover {
 		color: #00588A;
 		border-bottom: 1px solid #00588A;
