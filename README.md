@@ -15,8 +15,8 @@ You can read a breakdown of all my past work in my [resume](https://www.linkedin
 
 | Name                 | A short summary                              | Install   |
 | -------------------- | -------------------------------------------- | --------- |
-| [Debugger Image Visualizer for Visual Studio](https://github.com/aberus/ImageVisualizer) |  An image debug visualizer for Visual Studio.  | ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/AleksanderBerus.DebuggerImageVisualizerPreview) |
-| [Stack OverflowQuick Search for Visual Studio](https://github.com/aberus/StackOverflowQuickLaunch) | Search Stack Overflow within Visual Studio. | ![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/AleksanderBerus.StackOverflowQuickLaunchSearchProvider) | 
+| [Debugger Image Visualizer for Visual Studio](https://github.com/aberus/ImageVisualizer) |  An image debug visualizer for Visual Studio.  | [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/AleksanderBerus.DebuggerImageVisualizerPreview)](https://marketplace.visualstudio.com/items?itemName=AleksanderBerus.DebuggerImageVisualizerPreview) |
+| [Stack OverflowQuick Search for Visual Studio](https://github.com/aberus/StackOverflowQuickLaunch) | Search Stack Overflow within Visual Studio. | [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/AleksanderBerus.StackOverflowQuickLaunchSearchProvider)](https://marketplace.visualstudio.com/items?itemName=AleksanderBerus.StackOverflowQuickLaunchSearchProvider) | 
 | [ReflectCmdlet](https://github.com/aberus/ReflectCmdlet) | Explore source code of Powershell commands. | [![Nuget](https://img.shields.io/powershellgallery/v/ReflectCmdlet)](https://www.powershellgallery.com/packages/ReflectCmdlet/) |
 | [Google Functions Framework for PowerShell](https://github.com/aberus/gcloud-functions-framework-powershell) | PowerShell functions for Google Clound. |  |
 | [EntityFramework.Conventions](https://github.com/aberus/ef6.extensions)   | Conventions for EnitityFramework 6.x.  |  | 
