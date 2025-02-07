@@ -266,9 +266,9 @@ a:hover, a:focus {
 }
 
 @media (hover: hover) {
-	a.link-twitter:hover {
-		color: #218DBC;
-		border-bottom: 1px solid #218DBC;
+	a.link-bluesky:hover {
+		color: #08f;
+		border-bottom: 1px solid #08f;
 	}
 
 	a.link-mastodon:hover {
@@ -279,6 +279,11 @@ a:hover, a:focus {
 	a.link-linkedin:hover {
 		color: #00588A;
 		border-bottom: 1px solid #00588A;
+	}
+
+	a.link-x:hover {
+		color: #000;
+		border-bottom: 1px solid #000;
 	}
 
 	a.link-github:hover {
